@@ -1,0 +1,6 @@
+cd path/to/Giftmanga-website
+git init
+git remote add origin https://github.com/giffye33n/Giftmanga-website
+git add .
+git commit -m "Initial commit"
+git push -u origin master
